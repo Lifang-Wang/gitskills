@@ -1,3 +1,7 @@
 # gitskills
 create new dev branch
-this is mster update
+<<<<<<< HEAD
+this is feature1 update
+=======
+this is feature1 update
+>>>>>>> feature1
